@@ -8,5 +8,4 @@
 
 ## 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/joseph24x7/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 ✉️ &nbsp;You can email me at joseph24x7@outlook.com.
