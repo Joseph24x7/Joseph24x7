@@ -1,5 +1,4 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Joseph Praveen
-![profile count](https://komarev.com/ghpvc/?username=joseph24x7&color=red)&nbsp;
 
 ## 👨🏻‍💻 &nbsp;About Me
 
